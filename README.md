@@ -1,4 +1,4 @@
-# 🌶️ ComfyUI-Kimchy-H3-Suite
+# 🌶️ ComfyUI-Kimchy-Minimax-H3-Suite
 
 **MiniMax H3 (FLOW_AV)** 비디오·오디오 동시 생성 모델을 위한 **무결점·저VRAM 올인원 3D 잠재 업스케일러(`Kimchy H3 Upscaler V2` / `Side-MP 1MP~4K`)** 및 **전천후 듀얼 스케줄러(`Kimchy H3 Dual Scheduler`)** 통합 패키지입니다.
 
@@ -33,12 +33,12 @@
 `ComfyUI/custom_nodes/` 경로에서 Git Clone 하거나 압축을 해제합니다.
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/ComfyUI-Kimchy-H3-Suite.git
+git clone https://github.com/AI-KIMCHY/ComfyUI-Kimchy-Minimax-H3-Suite.git
 ```
 
 **폴더 구조:**
 ```text
-ComfyUI/custom_nodes/ComfyUI-Kimchy-H3-Suite/
+ComfyUI/custom_nodes/ComfyUI-Kimchy-Minimax-H3-Suite/
  ├── web/
  │    └── kimchy_mp_ui.js
  ├── __init__.py
