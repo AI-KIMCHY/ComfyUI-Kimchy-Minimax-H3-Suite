@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-kimchy-h3-suite"
+description = "All-in-One 3D Latent Upscaler (Scale & 1MP~4K Megapixels) and Dual Scheduler for MiniMax H3 in ComfyUI"
+version = "2.8.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[tool.comfy]
+PublisherId = "kimchy"
+DisplayName = "ComfyUI Kimchy H3 Suite"
+Icon = "🌶️"
